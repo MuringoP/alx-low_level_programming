@@ -1,6 +1,11 @@
 #include <stdio.h>
+/**
+ * 4-puts.c
+ */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
-eturn (0);
+
+return (0);
+
 }
