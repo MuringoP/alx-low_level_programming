@@ -6,7 +6,9 @@
  * Return: absolute value of an number or zero
  *
  */
+
 int print_last_digit(int n)
+
 {
 	int last;
 
