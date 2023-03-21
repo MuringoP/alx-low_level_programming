@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _abs - Computes absolute value of an integer.
+ * print_last_digit - prints the last digit of a number..
  * @c: The character to be checked
- * Return: absolute value of an number or zero
+ * Return:  value of the last digit
  *
  */
 
