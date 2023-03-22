@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * void print_to_98 - Entry point
+ * void print_to_98 - print all natural numbers from n to 98
  * @n: The nummber to start print from
- * Return: Always 0 (Success)
+ * Return: Always 0
  */
 
 void print_to_98(int n)
