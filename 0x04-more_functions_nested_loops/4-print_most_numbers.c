@@ -2,7 +2,7 @@
 
 /**
  * print_most_numbers - print num except 2 and 4
- *
+ *@c: character c
  * return: void
  */
 
