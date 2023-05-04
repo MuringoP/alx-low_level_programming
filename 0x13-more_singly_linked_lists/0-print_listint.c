@@ -5,15 +5,15 @@
  * @j: Pointer to the head of the linked list
  * Return: number of nodes
  */
-size_t print_listint(const listint_t *j)
+size_t print_listint(const listint_t *h)
 {
 	size_t num = 0;
 
-	while (j)
+	while (h)
 	{
-		printf("%d\n", j->n);
+		printf("%d\n", h->n);
 		num++;
-		j = j->next;
+		h = h->next;
 	}
 
 	return (num);
